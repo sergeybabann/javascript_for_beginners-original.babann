@@ -25,7 +25,7 @@ console.log(admin)
 const name = 'Александр', 
 age = 28, 
 isDeveloper = true;
-console.log(name, age,isDeveloper)
+console.log(name, age, isDeveloper)
 
 
 console.log(message1)
